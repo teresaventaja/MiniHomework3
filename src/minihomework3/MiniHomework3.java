@@ -17,6 +17,7 @@ public class MiniHomework3 {
         // TODO code application logic here
         System.out.println("I am not printing 1");
         System.out.println("I am not printing 2");
+        System.out.println("I am definitely not printing");
     }
     
 }
